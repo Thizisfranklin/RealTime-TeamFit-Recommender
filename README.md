@@ -2,9 +2,7 @@
 *Players • Coaches • Staff — powered by current match data*
 
 ---
-
-### 🚧 Status
-**In progress** — Target: **Winter Break 2025**  
+ 
 **Demo:** Streamlit MVP planned → simple cloud app if results look good
 
 ---
@@ -64,13 +62,6 @@ It focuses first on **players**, with a roadmap to include **coaches and coachin
 
 ---
 
-## 🗓️ Winter Break To-Do
-
-- [ ] Write the data pull script (rate-limit safe) ---- Now Available
-- [ ] Engineer core features + first FitScore ---- Now Available
-- [ ] Build basic Streamlit UI (inputs, Top-10, reasons, last-updated) ---- in development 
-- [ ] Back-test on past months (where it worked vs failed) ---- in development 
-- [ ] If it holds up → **deploy a cloud demo** and share  ---- in development 
 
 ---
 
